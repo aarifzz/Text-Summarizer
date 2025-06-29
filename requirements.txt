@@ -1,0 +1,5 @@
+streamlit
+transformers
+PyMuPDF
+beautifulsoup4
+torch
